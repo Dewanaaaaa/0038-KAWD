@@ -1,0 +1,2 @@
+ini adalah file baru dalam Pratikum Git dan Github
+apa yang diperlukan dalam praktek ini adalah internet, laptop, dan keinginan untuk belajar hal yang baru dan bermanfaat baik
